@@ -1,0 +1,13 @@
+{
+    "config": {
+        "platform":{
+            "php":"8.1"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^2.8"
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "1.28.*"
+    }
+}
